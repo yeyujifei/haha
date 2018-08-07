@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pics</folder>
+	<filename>1 (1226).jpg</filename>
+	<path>/home/fchyan/darknet/pics/1 (1226).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>25</width>
+		<height>20</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>1</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>3</ymin>
+			<xmax>20</xmax>
+			<ymax>16</ymax>
+		</bndbox>
+	</object>
+</annotation>
