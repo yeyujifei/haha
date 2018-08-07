@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pics</folder>
+	<filename>1 (1973).jpg</filename>
+	<path>/home/fchyan/darknet/pics/1 (1973).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>57</width>
+		<height>29</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>2</ymin>
+			<xmax>57</xmax>
+			<ymax>26</ymax>
+		</bndbox>
+	</object>
+</annotation>
